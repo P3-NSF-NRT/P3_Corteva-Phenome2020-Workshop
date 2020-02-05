@@ -17,7 +17,7 @@ Our P3 specialization has provided trainees access resources such as our "Plant 
 This workshop will introduce attendees to various, ready-to-use sensors that can be used for collecting phenotypic data of potted plants. This activity will be led by graduate students from Iowa State University’s Predictive Plant Phenomics (P3) NSF NRT program and is sponsored by Corteva Agriscience. There will be an emphasis on hands-on building and experimenting with these economical sensors. 
 
 
-# Corteva Plant Sceince Symposium Series, P3-Student Session: Predictive Plant Phenomics
+# Corteva Plant Science Symposium Series, P3-Student Session: Predictive Plant Phenomics
 
 ## Wednesday, February 26th from 8:30 am - 10:00 am
 
