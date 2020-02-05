@@ -1,4 +1,4 @@
-![](./P3_Logo.jpg)
+![](./Images/Logos/P3_Logo.jpg)
 
 Visit our Website: [P3 NSF NRT Website](https://www.predictivephenomicsinplants.iastate.edu/)
 
@@ -33,10 +33,10 @@ This workshop will introduce attendees to various, ready-to-use sensors that can
 
 # Funding
 
-<img src="./PSSS_Logo.png" width="50%">
+<img src="./Images/Logos/PSSS_Logo.png" width="50%">
 
 Plant Science Symposium Series Site: [Plant Science Symposia Series](https://www.corteva.com/our-impact/innovation/symposiaseries.html)
 
-<img src="./Corteva_Logo.png" width="50%">
+<img src="./Images/Logos/Corteva_Logo.png" width="50%">
 
 Corteva Agriscience Site: [Corteva Agriscience](https://www.corteva.com/)
