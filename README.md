@@ -6,7 +6,7 @@ Follow us on Twitter: [@p3iastate](https://twitter.com/p3iastate?ref_src=twsrc%5
 
 # What is the Predictive Plant Phenomics Program?
 
-The Predictive Plant Phenomics (P3) Program is an NSF-NRT at Iowa State University (ISU) that brings together students with diverse backgrounds, including plant sciences, data sciences, and engineering, and provide them with data-enabled science and engineering training. 
+The Predictive Plant Phenomics (P3) Program is an NSF NRT at Iowa State University (ISU) that brings together students with diverse backgrounds, including plant sciences, data sciences, and engineering, and provide them with data-enabled science and engineering training. 
 
 Our P3 specialization has provided trainees access resources such as our "Plant Cy-nce" Boxes ([P3 Cy-nce Box article](https://www.research.iastate.edu/news/p3-program-introducing-new-technology-teamwork-to-the-classroom/)) and professional development experiences including this Corteva Agriscience Plant Science Syposium Series sponsered graduate student led workshop and symposium at [Phenome2020](https://phenome2020.org/).
 
