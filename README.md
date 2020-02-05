@@ -9,3 +9,11 @@ Follow us on Twitter: [@p3iastate](https://twitter.com/p3iastate?ref_src=twsrc%5
 ## Tuesday, February 25th from 7:00 pm - 8:00 pm
 
 P3 NSF NRT's materials for the Corteva PSSS funded student led workshop at Phenome2020.
+
+![](./PSSS_Logo.png)
+
+[Plant Science Symposia Series](https://www.corteva.com/our-impact/innovation/symposiaseries.html)
+
+![](./Corteva_Logo.png)
+
+[Corteva Agriscience](https://www.corteva.com/)
