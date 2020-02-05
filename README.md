@@ -19,7 +19,7 @@ This workshop will introduce attendees to various, ready-to-use sensors that can
 
 # Corteva Plant Sceince Symposium Series, P3-Student Session: Predictive Plant Phenomics
 
-## Wednesday, February 26th from 8:30 am - 10 am
+## Wednesday, February 26th from 8:30 am - 10:00 am
 
 * Speakers:
     + Neil Hausmann
