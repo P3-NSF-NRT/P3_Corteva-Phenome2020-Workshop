@@ -3,3 +3,6 @@ https://learn.sparkfun.com/tutorials/wireless-motor-driver-shield-hookup-guide?_
 
 wireless joystick hookup guide:
 https://learn.sparkfun.com/tutorials/wireless-joystick-hookup-guide
+
+
+https://learn.sparkfun.com/tutorials/wireless-rc-robot-with-arduino-and-xbees/experiment-1-sending-and-receiving-a-signal
