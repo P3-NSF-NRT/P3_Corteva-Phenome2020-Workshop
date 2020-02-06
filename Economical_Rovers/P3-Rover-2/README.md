@@ -174,8 +174,8 @@ void loop() {
 
 This rover has design intended for demenstration more than use in application in a greenhouse. The main body is made out of poster board and the two tires attached to the motors are listed below. The front tire is a caster wheel picked up from the local hardware store. The reason it has a three wheel design is because having a front fixed axil prevents the car from turning, to have a four wheel design one would need to make a front axil that turns. This is explored more in [Rover 3](../P3-Rover-3).
 
-Here is a simple schematic of the rover used at phenome:
-![](../Rover_Images/Rover2_Model.pdf)
+Here is a simple schematic of the rover used at phenome:  
+![](../Rover_Images/Rover2-Model.pdf)  
 Note: The person who drew this is not an engineer and this not an accurate mechanical drawing, it is just simply ment to provide some dimensions and representation of the rover.
 
 ## Parts List
