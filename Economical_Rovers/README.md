@@ -5,5 +5,5 @@ This section of workshop is focused on the use of rovers assembled using resourc
 ## Rover 1
 
 In this section you can find the information to help you assemble a rover that will follow instructions fed to it from a computer.
-
+##inset image of rover
 You can find all the information here: [Rover 1 Information](./P3-Rover-1)
