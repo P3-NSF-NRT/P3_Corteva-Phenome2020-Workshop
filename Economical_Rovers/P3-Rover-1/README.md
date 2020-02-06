@@ -23,7 +23,7 @@ Item  | Cost
 [Breadboard](https://www.sparkfun.com/products/12002) | 4.95
 [Basic Motor Driver](https://www.sparkfun.com/products/14450) | 5.45
 [Tires](https://www.sparkfun.com/products/13259) | 2.95
-[Switch]()|1.50
-[Basic Motors]()|4.11
-[USB Cable for RedBoard]() | 5.10
-[Wires]()|2.25
+[Switch](https://www.sparkfun.com/products/102)|1.50
+[Basic Motors](https://www.sparkfun.com/products/13302)|4.11
+[USB Cable for RedBoard](https://www.sparkfun.com/products/11301) | 5.10
+[Wires](https://www.sparkfun.com/products/11026)|2.25
