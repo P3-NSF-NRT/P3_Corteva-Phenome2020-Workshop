@@ -5,5 +5,17 @@ This section of workshop is focused on the use of rovers assembled using resourc
 ## Rover 1
 
 In this section you can find the information to help you assemble a rover that will follow instructions fed to it from a computer.
-##inset image of rover
-You can find all the information here: [Rover 1 Information](./P3-Rover-1)
+
+You can find all the information for this rover here: [Rover 1 Information](./P3-Rover-1)
+
+## Rover 2
+
+In this section you can find the information to help you assemble a rover that you can give a preprogrammed path to execute wirelessly on battery power.
+
+You can find all the information for this rover here: [Rover 2 Information](./P3-Rover-2)
+
+## Rover 3
+
+In this section you can find information about the remote controlled rover, this is a more advanced build and requires more materials.
+
+You can find all the information for this rover here: [Rover 3 Information](./P3-Rover-3)
