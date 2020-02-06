@@ -14,7 +14,7 @@ The code used for this rover is mainly provided by the example code provided wit
 
 **Note:** Code mentioned here is used with [Arduino IDE](https://www.arduino.cc/en/main/software) which can be used online or through a program downloaded to a computer. **This is not Python or R code, it is Arduino IDE code**
 
-``r
+***
 /*
 SparkFun Inventor’s Kit
 Circuit 5B - Remote Control Robot
@@ -187,7 +187,7 @@ void loop()
      delay(500);
   }
 }
-``
+***
 
 ## Body
 
