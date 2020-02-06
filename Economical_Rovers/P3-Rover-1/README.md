@@ -13,3 +13,10 @@ For a more detailed description of how to wire the redboard you can refer to pag
 
 
 ## Body
+
+
+## Parts List
+
+Item  | Cost  | Link
+------|-------|--------
+Redboard| XX.XX | lljhlj
