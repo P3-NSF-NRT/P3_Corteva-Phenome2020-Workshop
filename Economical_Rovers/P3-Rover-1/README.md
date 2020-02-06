@@ -14,7 +14,7 @@ The code used for this rover is mainly provided by the example code provided wit
 
 **Note:** Code mentioned here is used with [Arduino IDE](https://www.arduino.cc/en/main/software) which can be used online or through a program downloaded to a computer. **This is not Python or R code, it is Arduino IDE code**
 
-***
+
 /*
 SparkFun Inventor’s Kit
 Circuit 5B - Remote Control Robot
@@ -64,7 +64,6 @@ const int leftturnTime = 6;    //This is the same as the rightturnTime but for t
 String botDirection;           //the direction that the roobt will drive in (this change which direction the two motors spin in)
 String distance;               //the distance to travel in each direction
 
-/********************************************************************************/
 void setup()
 {
   pinMode(switchPin, INPUT_PULLUP);   //set this as a pullup to sense whether the switch is flipped
@@ -86,8 +85,6 @@ void setup()
   Serial.println("Example command: f 50");
 }
 
-/********************************************************************************/
-/********************************************************************************/
 void rightMotor(int motorSpeed)                       //function for driving the right motor
 {
   if (motorSpeed > 0)                                 //if the motor should drive forward (positive speed)
@@ -108,7 +105,6 @@ void rightMotor(int motorSpeed)                       //function for driving the
   analogWrite(PWMA, abs(motorSpeed));                 //now that the motor direction is set, drive it at the entered speed
 }
 
-/********************************************************************************/
 void leftMotor(int motorSpeed)                        //function for driving the left motor
 {
   if (motorSpeed > 0)                                 //if the motor should drive forward (positive speed)
