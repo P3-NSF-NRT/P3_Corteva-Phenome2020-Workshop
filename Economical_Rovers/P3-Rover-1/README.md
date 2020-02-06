@@ -6,7 +6,7 @@ Here is an overveiw of how the Arduino/Redboard is wired using the motor driver 
 
 ![](../Rover_Images/redboard_rover_basic.png)
 
-For a more detailed description of how to wire the redboard you can refer to the ["SparkFun Inventor's Kit"]() manual or the [SparkFun](https://www.sparkfun.com/) website.
+For a more detailed description of how to wire the redboard you can refer to page 96 of the ["SparkFun Inventor's Kit"](../../SIK v4.1 Book 2019 WEB.pdf) manual or the [SparkFun](https://www.sparkfun.com/) website.
 
 ## Code
 
