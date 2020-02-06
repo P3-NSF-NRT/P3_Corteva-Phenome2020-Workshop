@@ -33,7 +33,9 @@ This workshop will introduce attendees to various, ready-to-use sensors that can
 
 # Funding
 
-<img src="./Images/Logos/PSSS_Logo.png" width="60%">
+This material is based upon work supported by the National Science Foundation under Grant No.DGE-1545453.
+
+<img src="./Images/Logos/NSF_4-Color_bitmap_Logo.png" width="45%">
 
 National Science Foundation: [NSF P3 funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545453)
 
