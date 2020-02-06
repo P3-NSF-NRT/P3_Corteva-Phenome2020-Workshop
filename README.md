@@ -33,6 +33,10 @@ This workshop will introduce attendees to various, ready-to-use sensors that can
 
 # Funding
 
+<img src="./Images/Logos/PSSS_Logo.png" width="60%">
+
+National Science Foundation: [NSF P3 funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545453)
+
 <img src="./Images/Logos/PSSS_Logo.png" width="50%">
 
 Plant Science Symposium Series Site: [Plant Science Symposia Series](https://www.corteva.com/our-impact/innovation/symposiaseries.html)
