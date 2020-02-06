@@ -17,6 +17,13 @@ For a more detailed description of how to wire the redboard you can refer to pag
 
 ## Parts List
 
-Item  | Cost  | Link
-------|-------|--------
-Redboard| XX.XX | lljhlj
+Item  | Cost  
+------|-------
+[RedBoard](https://www.sparkfun.com/products/13975)| 19.95
+[Breadboard](https://www.sparkfun.com/products/12002) | 4.95
+[Basic Motor Driver](https://www.sparkfun.com/products/14450) | 5.45
+[Tires](https://www.sparkfun.com/products/13259) | 2.95
+[Switch]()|1.50
+[Basic Motors]()|4.11
+[USB Cable for RedBoard]() | 5.10
+[Wires]()|2.25
