@@ -180,7 +180,7 @@ Note: The person who drew this is not an engineer and this not an accurate mecha
 
 ## Parts List
 
-Item  | Cost  
+Item  | Cost (USD)  
 ------|-------
 [RedBoard](https://www.sparkfun.com/products/13975)| 19.95
 [Breadboard](https://www.sparkfun.com/products/12002) | 4.95
