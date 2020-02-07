@@ -194,7 +194,7 @@ This rover had a very simplistic design because it is intended for demonstration
 
 ## Parts List
 
-Item  | Cost  
+Item  | Cost (USD)  
 ------|-------
 [RedBoard](https://www.sparkfun.com/products/13975)| 19.95
 [Breadboard](https://www.sparkfun.com/products/12002) | 4.95
