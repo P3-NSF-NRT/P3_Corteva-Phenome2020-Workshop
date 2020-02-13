@@ -181,7 +181,7 @@ Here is a simple schematic of the rover used at phenome:
 Note: The person who drew this is not an engineer and this not an accurate mechanical drawing, it is just simply ment to provide some dimensions and representation of the rover.
 
 Back of the rover:
-![](../Rover_Images/Rover_2_Back.jpg)
+<img src="../Rover_Images/Rover_2_Back.jpg" style="transform:rotate(180deg);">
 
 Hood removed:
 ![](../Rover_Images/Rover_2_Hood.jpg)
