@@ -14,7 +14,7 @@ Our P3 specialization has provided trainees access resources such as our "Plant 
 
 ## Tuesday, February 25th from 7:00 pm - 8:00 pm
 
-This workshop will introduce attendees to various, ready-to-use sensors that can be used for collecting phenotypic data of potted plants. There will be stations introducing [simple light and tempature sensors](./Economical_Sensors_and_Imaging), [cameras](./Economical_Sensors_and_Imaging), and [rovers](./Economical_Rovers). This activity will be led by graduate students from Iowa State University’s Predictive Plant Phenomics (P3) NSF NRT program and is sponsored by Corteva Agriscience. There will be an emphasis on hands-on building and experimenting with these economical sensors. 
+This workshop will introduce attendees to various, ready-to-use sensors that can be used for collecting phenotypic data of potted plants. There will be stations introducing [simple light and tempature sensors](./Economical_Sensors_and_Imaging), [cameras](./Economical_Sensors_and_Imaging), and [rovers](./Economical_Rovers/README.md). This activity will be led by graduate students from Iowa State University’s Predictive Plant Phenomics (P3) NSF NRT program and is sponsored by Corteva Agriscience. There will be an emphasis on hands-on building and experimenting with these economical sensors. 
 
 
 # Corteva Plant Science Symposium Series, P3-Student Session: Predictive Plant Phenomics
