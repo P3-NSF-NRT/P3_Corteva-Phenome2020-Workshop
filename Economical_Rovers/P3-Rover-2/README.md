@@ -1,5 +1,7 @@
 # Rover 2
 
+![](../Rover_Images/Rover_2_Front.jpg)
+
 ## Wiring
 
 Here is an overveiw of how the Arduino/Redboard is wired using the motor driver provided in the parts list below.  
@@ -177,6 +179,15 @@ This rover has design intended for demenstration more than use in application in
 Here is a simple schematic of the rover used at phenome:  
 ![Rover 2 Schematic](../Rover_Images/Rover2-CAD.png) 
 Note: The person who drew this is not an engineer and this not an accurate mechanical drawing, it is just simply ment to provide some dimensions and representation of the rover.
+
+Back of the rover:
+![](../Rover_Images/Rover_2_Back.jpg)
+
+Hood removed:
+![](../Rover_Images/Rover_2_Hood.jpg)
+
+Trunk open:
+![](../Rover_Images/Rover_2_Trunk.jpg)
 
 ## Parts List
 
