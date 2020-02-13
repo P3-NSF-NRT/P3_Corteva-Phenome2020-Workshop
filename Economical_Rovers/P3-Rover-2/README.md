@@ -1,6 +1,6 @@
 # Rover 2
 
-![](../Rover_Images/Rover_2_Front.jpg)
+![](../Rover_Images/Rover_2.jpg)
 
 ## Wiring
 
