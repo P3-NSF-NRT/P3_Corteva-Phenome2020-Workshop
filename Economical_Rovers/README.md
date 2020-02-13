@@ -12,11 +12,11 @@ This section of workshop is focused on the use of rovers assembled using resourc
 -->
 
 
-The required harware, software, and code can be quickly found utalizing the sections below:
+The required harware, software, and code can be quickly found utilizing the sections below:
 
 ## Rover 1
 
-![](/Rover_Images/Rover_1.jpg)
+![](./Rover_Images/Rover_1.jpg)
 
 In this section you can find the information to help you assemble a rover that will follow instructions fed to it from a computer.
 
@@ -24,11 +24,15 @@ You can find all the information for this rover here: [Rover 1 Information](./P3
 
 ## Rover 2
 
+![](./Rover_Images/Rover_2_Front.jpg)
+
 In this section you can find the information to help you assemble a rover that you can give a preprogrammed path to execute wirelessly on battery power.
 
 You can find all the information for this rover here: [Rover 2 Information](./P3-Rover-2)
 
 ## Rover 3
+
+![](./Rover_Images/Rover_3.jpg)
 
 In this section you can find information about the remote controlled rover, this is a more advanced build and requires more materials.
 
