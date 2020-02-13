@@ -1,5 +1,7 @@
 # Rover 1
 
+![](../Rover_Images/Rover_1.jpg)
+
 ## Wiring
 
 Here is an overveiw of how the Arduino/Redboard is wired using the motor driver provided in the parts list below.
