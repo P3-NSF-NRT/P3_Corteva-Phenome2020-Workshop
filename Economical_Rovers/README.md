@@ -15,7 +15,7 @@ This section of workshop is focused on the use of rovers assembled using resourc
 The required harware, software, and code can be quickly found utalizing the sections below:
 
 ## Rover 1
-
+![](../Rover_Images/Rover_1.jpg)
 In this section you can find the information to help you assemble a rover that will follow instructions fed to it from a computer.
 
 You can find all the information for this rover here: [Rover 1 Information](./P3-Rover-1)
