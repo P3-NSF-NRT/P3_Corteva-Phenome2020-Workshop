@@ -384,9 +384,13 @@ void xbee3_RESET() {
 
 ## Body
 
-![](../Rover_Images/Rover_3.jpg)
+![](../Rover_Images/Rover_3_Top.jpg)
 
 The chassis of this rover is made from posterboard. The wheels and plastic body cover were purchased from a local hobby shop. The wheels were attched using a round aluminum tube and nuts (the nuts are attached to the round tube and tire to help the tire turn). Two of the tires were attached to a servo on the bottom of the rover and the other two tires were attached to a dual motor gearbox.
+
+![](../Rover_Images/Rover_3_Motors.jpg)
+
+![](../Rover_Images/Rover_3_Servo.jpg)
 
 ## Parts List
 
