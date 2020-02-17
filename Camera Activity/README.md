@@ -22,4 +22,10 @@ To run the appropriate code, follow the instructions at the following links
 + Installing NOOBS to RaspberryPi (https://www.raspberrypi.org/documentation/installation/noobs.md)
 + Download Arduino IDE or use the Web Editor (https://www.arduino.cc/en/Guide/HomePage)
 
+## Code
+Code is provided for the following;
++ Arduino code to run the appropriate sensors and configurations shown in the demonstration.
++ Python3 scripts to use the RaspberryPi camera. Commands were issued via ssh.
++ A jupyter notebok demonstrating a possible image processing workflow. The jupyter notebook relies on the Python module "PlantCV" (https://plantcv.danforthcenter.org/)
+
  
