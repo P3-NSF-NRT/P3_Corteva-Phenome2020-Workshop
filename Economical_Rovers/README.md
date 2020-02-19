@@ -24,7 +24,7 @@ You can find all the information for this rover here: [Rover 1 Information](./P3
 
 ## Rover 2
 
-![](./Rover_Images/Rover_2_Front.jpg)
+![](./Rover_Images/Rover_2.jpg)
 
 In this section you can find the information to help you assemble a rover that you can give a preprogrammed path to execute wirelessly on battery power.
 
