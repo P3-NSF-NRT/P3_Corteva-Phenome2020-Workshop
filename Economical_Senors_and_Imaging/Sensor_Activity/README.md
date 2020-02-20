@@ -10,6 +10,7 @@ the parts listed here.
 
 + SparkFun Inventor's Kit  (https://www.sparkfun.com/products/15267)
 + Sensors 
+
 		+ Light - http://wiki.seeedstudio.com/Grove-Digital_Light_Sensor/
 		+ Soil Moisture - http://wiki.seeedstudio.com/Grove-Moisture_Sensor/
 		+ Barometer - https://store.arduino.cc/usa/grove-barometer-sensor-bmp280
