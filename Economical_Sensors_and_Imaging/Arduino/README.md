@@ -5,6 +5,6 @@
      *  https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/project-4-display
      
      
-![](./Economical_Sensors_and_Imaging/images/Sensor_1.jpg)
+![](/Economical_Sensors_and_Imaging/images/Sensor_1.jpg)
 
-![](./Economical_Sensors_and_Imaging/images/Sensor_2.jpg)
+![](/Economical_Sensors_and_Imaging/images/Sensor_2.jpg)
