@@ -25,8 +25,10 @@ To run the appropriate code, follow the instructions at the following links
 
 ## Code
 Code is provided for the following;
-+ Arduino code to run the appropriate sensors and configurations shown in the demonstration
++ Arduino Scripts to use the featured sensors (Light, Soil Moisture, Temperature, Barometer)
 
 ![](./Sensors_and_Imaging_Images/Sensor_1.jpg)
+
+
 ![](./Sensors_and_Imaging_Images/Sensor_2.jpg)
  
