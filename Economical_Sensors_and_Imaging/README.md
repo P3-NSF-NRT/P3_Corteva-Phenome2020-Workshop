@@ -1,6 +1,8 @@
 
 # Sensor and Camera Activity
+
 ![](./images/All_Sensors.jpg)
+
 This section compiles all of the necessary resources to recreate the RaspberryPi and Arduino 
 demonstrations at the Phenome 2020 Conference by Corteva.
 
