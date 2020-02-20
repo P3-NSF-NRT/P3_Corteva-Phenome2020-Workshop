@@ -1,7 +1,7 @@
 
 # Sensor and Camera Activity
 
-![](./images/All_Sensors.jpg)
+![](./images/All_Sensor.jpg)
 
 This section compiles all of the necessary resources to recreate the RaspberryPi and Arduino 
 demonstrations at the Phenome 2020 Conference by Corteva.
@@ -17,8 +17,8 @@ the parts listed here.
 * Arducam Low Light Sensor (https://www.arducam.com/product/arducam-m12-night-vision-ir-cut-raspberry-pi-camera/)
 * Sensors  - soil moisture, temperature, light, pressure  (http://wiki.seeedstudio.com/Sensor/)
   * Light - http://wiki.seeedstudio.com/Grove-Digital_Light_Sensor/
-	* Soil Moisture - http://wiki.seeedstudio.com/Grove-Moisture_Sensor/
-	* Barometer - https://store.arduino.cc/usa/grove-barometer-sensor-bmp280
+  * Soil Moisture - http://wiki.seeedstudio.com/Grove-Moisture_Sensor/
+  * Barometer - https://store.arduino.cc/usa/grove-barometer-sensor-bmp280
   * Temperature uses the included sensor in the SparkFun Inventor's Kit
 
 Wiring schematics for the Arduino breadboards are available in the SparkFun Inventor's Kit 
