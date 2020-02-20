@@ -15,6 +15,7 @@ the parts listed here.
 * SparkFun Inventor's Kit  (https://www.sparkfun.com/products/15267)
 * CanaKit Raspberry Pi 4 Kit (https://www.canakit.com/raspberry-pi)
 * Arducam Low Light Sensor (https://www.arducam.com/product/arducam-m12-night-vision-ir-cut-raspberry-pi-camera/)
+  * TO INSTALL CAMERA - https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
 * Sensors  - soil moisture, temperature, light, pressure  (http://wiki.seeedstudio.com/Sensor/)
   * Light - http://wiki.seeedstudio.com/Grove-Digital_Light_Sensor/
   * Soil Moisture - http://wiki.seeedstudio.com/Grove-Moisture_Sensor/
