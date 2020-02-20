@@ -21,8 +21,7 @@ the parts listed here.
   * Barometer - https://store.arduino.cc/usa/grove-barometer-sensor-bmp280
   * Temperature uses the included sensor in the SparkFun Inventor's Kit
 
-Wiring schematics for the Arduino breadboards are available in the SparkFun Inventor's Kit 
-(or online here;https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40)
+Wiring schematics for the Arduino breadboards are available in the SparkFun Inventor's Kit, or online at the following link; https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40)
 
 ## Software
 To run the appropriate code, follow the instructions at the following links
