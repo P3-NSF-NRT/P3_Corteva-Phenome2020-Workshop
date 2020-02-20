@@ -1,4 +1,4 @@
-#Camera Activity
+# Camera Activity
 
 This section compiles all of the necessary resources to recreate the RaspberryPi Camera demonstrations 
 demonstrations at the Phenome 2020 Conference by Corteva.
