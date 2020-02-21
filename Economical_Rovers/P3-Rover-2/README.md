@@ -4,7 +4,7 @@
 
 ## Wiring
 
-Here is an overveiw of how the Arduino/Redboard is wired using the motor driver provided in the parts list below.  
+Here is an overview of how the Arduino/Redboard is wired using the motor driver provided in the parts list below.  
 This wiring set up is identical to [Rover 1](../P3-Rover-1).
 
 ![](../Rover_Images/redboard_rover_basic.png)
@@ -174,11 +174,11 @@ void loop() {
 
 ## Body
 
-This rover has design intended for demenstration more than use in application in a greenhouse. The main body is made out of poster board and the two tires attached to the motors are listed below. The front tire is a caster wheel picked up from the local hardware store. The reason it has a three wheel design is because having a front fixed axil prevents the car from turning, to have a four wheel design one would need to make a front axil that turns. This is explored more in [Rover 3](../P3-Rover-3).
+This rover has been designed more for demonstration than for use in a greenhouse. The main body is made out of poster board and the two tires attached to the motors are listed below. The front tire is a caster wheel picked up from the local hardware store. The reason it has a three-wheel design is because having a fixed front-axle prevents the car from turning; to have a four-wheel design, a front axle that is able to turn is needed. This is explored more in [Rover 3](../P3-Rover-3).
 
-Here is a simple schematic of the rover used at phenome:  
+Here is a simple schematic of Rover 2 as used at Phenome:  
 ![Rover 2 Schematic](../Rover_Images/Rover2-CAD.png) 
-Note: The person who drew this is not an engineer and this not an accurate mechanical drawing, it is just simply ment to provide some dimensions and representation of the rover.
+Note: This schematic is not to scale.
 
 Hood removed:
 ![](../Rover_Images/Rover_2_Hood.jpg)
