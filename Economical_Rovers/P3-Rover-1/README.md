@@ -22,12 +22,12 @@ The code used for this rover is mainly provided by the example code provided wit
 /*
 SparkFun Inventor’s Kit
 Circuit 5B - Remote Control Robot
-Control a two wheeled robot by sending direction commands through the serial monitor.
+Control a two-wheeled robot by sending direction commands through the serial monitor.
 This sketch was adapted from one of the activities in the SparkFun Guide to Arduino.
 Check out the rest of the book at
 https://www.sparkfun.com/products/14326
 This sketch was written by SparkFun Electronics, with lots of help from the Arduino community.
-This code is completely free for any use.
+This code is entirely free for any use.
 View circuit diagram and instructions at: https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40
 Download drawings and code at: https://github.com/sparkfun/SIK-Guide-Code
 */
@@ -46,23 +46,23 @@ int switchPin = 7;            //switch to turn the robot on and off
 
 const int driveTime = 60;     //this is the number of milliseconds that it takes the robot to drive 1 inch (or unit of choice)
                               //you can modify this number to 'calibrate' the motors to go about 1 inch when fed a value of 1
-                              //The greater the number the longer the motors run, so if the robot does not move far enough increase
+                              //The higher the number, the longer the motors run, so if the robot does not move far enough increase
                               //this value, and if it goes too far decrease this number
                               
 const int rightturnTime = 5.3;   //this is the number of milliseconds that it takes to turn the robot 1 degree to the right
                                  //you can modify this number to 'calibrate' the motors to go about 1 degree when fed a value of 1
-                                 //The greater the number the longer the motors run, so if the robot does not move far enough increase
+                                 //The higher the number, the longer the motors run, so if the robot does not move far enough increase
                                  //this value, and if it goes too far decrease this number
 
 const int leftturnTime = 6;    //This is the same as the rightturnTime but for turning left
                                //There are two values because it allows the user to more accurately 'calibrate' the robot
-                               //The same could be done for forwards and backwards if necessary
+                               //The same could be done for forwards and backward if necessary
                                
                                //Note: these numbers will vary a little bit based on how you mount your motors, the friction of the
-                               //surface that your driving on, and fluctuations in the power to the motors.
+                               //surface that your driving on, and fluctuations in power to the motors.
                                //You can change the driveTime and turnTime to make them more accurate
 
-String botDirection;           //the direction that the roobt will drive in (this change which direction the two motors spin in)
+String botDirection;           //the direction that the robot will drive in (this change which direction the two motors spin in)
 String distance;               //the distance to travel in each direction
 
 /********************************************************************************/
