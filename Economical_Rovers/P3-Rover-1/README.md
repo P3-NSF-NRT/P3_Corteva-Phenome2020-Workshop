@@ -4,7 +4,7 @@
 
 ## Wiring
 
-Here is an overveiw of how the Arduino/Redboard is wired using the motor driver provided in the parts list below.
+Here is an overview of how the Arduino/Redboard is wired using the motor driver provided in the parts list below.
 
 ![](../Rover_Images/redboard_rover_basic.png)
 
@@ -194,7 +194,7 @@ void loop()
 
 ![](../Rover_Images/Rover_1_Top.jpg)
 
-This rover had a very simplistic design because it is intended for demonstration more than use. The main body is made out of poster board and the two tires attached to the motors are listed below. The front tire is a caster wheel picked up from the local hardware store. The reason it has a three wheel design is because having a front fixed axil prevents the car from turning, to have a four wheel design one would need to make a front axil that turns. This is explored more in [Rover 3](../P3-Rover-3).
+This rover had a very simple design because it is intended for demonstration more than use. The main body is made out of poster board and the two tires attached to the motors are listed below. The front tire is a caster wheel picked up from the local hardware store. The reason it has a three-wheel design is because having a fixed front-axle prevents the car from turning; to have a four-wheel design, a front axle that is able to turn is needed. This is explored more in [Rover 3](../P3-Rover-3).
 
 ## Parts List
 
