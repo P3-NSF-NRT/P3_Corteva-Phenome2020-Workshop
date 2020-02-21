@@ -28,7 +28,7 @@ The first portion of code is what will be loaded onto the [motor driver shield](
 Something you might notice in this code is it uses a similar concept that was used in the code for [Rover 2](../P3-Rover-2). Similar to Rover 2, we use letters in a form of serial communication (through the monitor or over the XBees) to call a function. Remember in Rover 2 we created a function for driving forward, turning, and such, and in this code a similar idea is used by creating a function for movement and then when a specific letter is sent/recieved it is linked to those movement functions.
 
 ```
- /*
+/*
  * This code has been mainly taken from:
  * SparkFun Ludus ProtoShield Example Code
  * SparkFun Electronics
@@ -36,9 +36,9 @@ Something you might notice in this code is it uses a similar concept that was us
  * 
  * There have been some changes to fit the specific project/scope of this rover
  * This code controls two motors and a servo to control a vehicle
- * The servo is cordinated with the motors for turning
+ * The servo is coordinated with the motors for turning
  * 
- * Many of the values may need modified to work with your own project
+ * Many of the values may need to be modified to work with your project
 */
 
 #include <Servo.h> 
@@ -214,14 +214,12 @@ Note: The code includes the hardware reset needed for the XBee Module 3.
    Do whatever you'd like with this code, use it for any purpose.
    Please attribute and keep this license.
 
-   This is example code for the Wireless Joystick with SAMD21. Any character entered through the
+   This code is an example code for the Wireless Joystick with SAMD21. Any character entered through the
    Serial Monitor or when a condition statement is satisfied will be sent to the hardware UART pins.
-   Assuming that you have a pair of XBees Series 1 modules (or Series 3 modules configured with 802.15.4 protocol) on the
-   same channel, a character will be transmitted wirelessly between the XBees. The receiving
-   XBee will then pass the character to the an ATmega328P microcontroller to move the robot forward.
+   Assuming that you have a pair of XBees Series 1 modules (or Series 3 modules configured with 802.15.4 protocol) on the same channel, a character will be transmitted wirelessly between the XBees. The receiving
+   XBee will then pass the character to the ATmega328P microcontroller to move the robot forward.
 
-   Pressing down on D2 (if you soldered the joystick on the right or a button) will check
-   the joystick on the left. A character will be transmitted when moving the joystick.
+   Pressing down on D2 (if you soldered the joystick on the right or a button) will check the joystick on the left. A character will be transmitted when moving the joystick.
 
        up = forward
        right = forward turn right
@@ -230,8 +228,7 @@ Note: The code includes the hardware reset needed for the XBee Module 3.
 
    When D2 is not being pressed, a character will be sent to stop the motors.
 
-   Note: You may need to connect A5 to the XBee Series 3's reset pin on the Wireless Joystick
-   for certain XBee Series 3 modules. For more details, check out the xbee3_RESET() function.
+   Note: You may need to connect A5 to the XBee Series 3's reset pin on the Wireless Joystick for certain XBee Series 3 modules. For more details, check out the xbee3_RESET() function.
  *************************
  * The code was modified and changed slightly to better fit the needs for this project.
  * 
@@ -361,12 +358,12 @@ void xbee3_RESET() {
   //HARDWARE RESET
   /*
     - XBee Series 3 Hardware Reference Manual
-    - Pg 31 Power Supply Design recommends decoupling capacitor between Vcc and GND.
-      Tested with 10uF capacitor and without. This was not necessary.
+    - Pg 31 Power Supply Design recommends a decoupling capacitor between Vcc and GND.
+      Tested with a 10uF capacitor and without. This was not necessary.
     - Pg 60 Brown Out Detection. This is REQUIRED. Add a jumper between the XBee's Reset and A5
     https://www.digi.com/resources/documentation/digidocs/pdfs/90001543.pdf
 
-    - Power cycle XBee Series 3 by grounding RESET Pin to avoid dicontinuities in ramp up and brown out detection
+    - Power cycle XBee Series 3 by grounding RESET Pin to avoid discontinuities in ramp-up and brownout detection
     https://www.silabs.com/community/mcu/32-bit/knowledge-base.entry.html/2017/06/14/rmu_e203_avdd_ramp-j176
 
     - Minimum Time to Force Reset:
@@ -408,5 +405,5 @@ Item  | Cost (USD)
 [Antenna (2)](https://www.sparkfun.com/products/145)| 7.95
 [Controller](https://www.sparkfun.com/products/14051?_ga=2.61254444.1820037957.1578372347-380462414.1578372347)| 38.95
 [XBee Configuration ](https://www.sparkfun.com/products/11812?_ga=2.61254444.1820037957.1578372347-380462414.1578372347)|25.95
-Tubes for Axels | 1.09
+Tubes for Axles | 1.09
 [Servo](https://www.sparkfun.com/products/9065) | 8.95
