@@ -3,13 +3,11 @@
 
 ![](./images/All_Sensor.jpg)
 
-This section compiles all of the necessary resources to recreate the RaspberryPi and Arduino 
-demonstrations at the Phenome 2020 Conference by Corteva.
+This section compiles all of the necessary resources to recreate the RaspberryPi and Arduino demonstrations by P3 students at the Phenome 2020 conference, sponsored by Corteva Agriscience
 
 ## Hardware
 Listed below are the RaspberryPi and Arduino hardware used for our demonstration. There are many different models/flavors of these components 
-for sale by both official and 3rd party retailers. These models are typically only marginally difference, and the core functionality of different models 
-should remain the same. Although this set up should work with most components, we can only guarantee functionality using
+for sale by both official and 3rd party retailers. Most of these models are typically only marginally different so the core functionality of different models should remain the same. Although this set up should work with most components, we can only guarantee functionality using
 the parts listed here.
 
 * SparkFun Inventor's Kit  (https://www.sparkfun.com/products/15267)
