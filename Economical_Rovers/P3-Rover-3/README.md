@@ -394,3 +394,19 @@ The chassis of this rover is made from posterboard. The wheels and plastic body 
 
 ## Parts List
 
+Item  | Cost (USD)  
+------|-------
+[RedBoard](https://www.sparkfun.com/products/13975)| 19.95
+[Breadboard](https://www.sparkfun.com/products/12002) | 4.95
+[Motor Driver](https://www.sparkfun.com/products/14285) | 21.95
+[Tires](https://www.hobbytown.com/traxxas-premounted-talon-tires-w-gemini-wheels-black-chrome-2-tra7174a/p139553?r=0) | 18.95
+[XBee (2)](https://www.sparkfun.com/products/15130)|25.95
+[Motor Gearbox with Motors](https://www.sparkfun.com/products/319)|10.95
+[USB Cable for RedBoard](https://www.sparkfun.com/products/11301) | 5.10
+[Wires](https://www.sparkfun.com/products/11026)|2.25
+[9V Battery Pack](https://www.sparkfun.com/products/10512)| 2.95
+[Antenna (2)](https://www.sparkfun.com/products/145)| 7.95
+[Controller](https://www.sparkfun.com/products/14051?_ga=2.61254444.1820037957.1578372347-380462414.1578372347)| 38.95
+[XBee Configuration ](https://www.sparkfun.com/products/11812?_ga=2.61254444.1820037957.1578372347-380462414.1578372347)|25.95
+Tubes for Axels | 1.09
+[Servo](https://www.sparkfun.com/products/9065) | 8.95
