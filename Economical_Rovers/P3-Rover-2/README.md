@@ -43,20 +43,20 @@ int switchPin = 7;             //switch to turn the robot on and off
 
 const int driveTime = 60;     //this is the number of milliseconds that it takes the robot to drive 1 inch (or unit of choice)
                               //you can modify this number to 'calibrate' the motors to go about 1 inch when fed a value of 1
-                              //The greater the number the longer the motors run, so if the robot does not move far enough increase
+                              //The higher the number, the longer the motors run, so if the robot does not move far enough increase
                               //this value, and if it goes too far decrease this number
                               
 const int rightturnTime = 5.3;   //this is the number of milliseconds that it takes to turn the robot 1 degree to the right
                                  //you can modify this number to 'calibrate' the motors to go about 1 degree when fed a value of 1
-                                 //The greater the number the longer the motors run, so if the robot does not move far enough increase
+                                 //The higher the number, the longer the motors run, so if the robot does not move far enough increase
                                  //this value, and if it goes too far decrease this number
 
 const int leftturnTime = 6;    //This is the same as the rightturnTime but for turning left
                                //There are two values because it allows the user to more accurately 'calibrate' the robot
-                               //The same could be done for forwards and backwards if necessary
+                               //The same could be done for forwards and backward if necessary
                                
                                //Note: these numbers will vary a little bit based on how you mount your motors, the friction of the
-                               //surface that your driving on, and fluctuations in the power to the motors.
+                               //surface that your driving on, and fluctuations in power to the motors.
                                //You can change the driveTime and turnTime to make them more accurate
 
 void setup()
